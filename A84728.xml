@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fourty four queries to the life of Queen Dick. By one who will at any time work a job of journey-work, to serve his countrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84728</idno>
+            <idno type="STC">Wing F1622</idno>
+            <idno type="STC">Thomason E986_18</idno>
+            <idno type="STC">ESTC R202118</idno>
+            <idno type="EEBO-CITATION">99862520</idno>
+            <idno type="PROQUEST">99862520</idno>
+            <idno type="VID">114683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114683)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fourty four queries to the life of Queen Dick. By one who will at any time work a job of journey-work, to serve his countrey.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June. 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Richard, 1626-1712 --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114683:1" rendition="simple:additions"/>
+            <p> Fourty Four QVERIES To the Life of QUEEN DICK.</p>
+            <p>By one who will at any time work a <hi>Job</hi> of <hi>JOURNEY-WORK,</hi> To ſerve his Countrey.</p>
+            <p>Printed in the Year, 1659.</p>
+            <pb facs="tcp:114683:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="doubts_and_queries">
+            <pb n="3" facs="tcp:114683:2"/>
+            <head>
+               <hi>Some</hi> Doubts, <hi>but more</hi> Quaeries.</head>
+            <p>
+               <label>I.</label>
+            </p>
+            <p>VVHether <hi>Richard Cromwell</hi> was <hi>Oliver</hi>'s Sonne, or no?</p>
+            <p>
+               <label>II.</label>
+            </p>
+            <p>Whether it is not convenient that the <hi>Parliament</hi> ſhould ſettle a very conſiderable Revenue upon <hi>Richard,</hi> becauſe he ſo willingly reſigned the Government, when as all the World knowes he was not able to keep it?</p>
+            <p>
+               <label>III.</label>
+            </p>
+            <p>Whether <hi>White. Hall</hi> ought not to be called the <hi>Fleet,</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>Richard Cromwell</hi> is in there for Debt?</p>
+            <p>
+               <label>IV.</label>
+            </p>
+            <p>Whether <hi>R. C.</hi> doth not expect, he being a Courtier, ra<g ref="char:EOLhyphen"/>ther to be <hi>Complemented</hi> then <hi>Voted</hi> out of <hi>White-Hall?</hi>
+            </p>
+            <p>
+               <label>V.</label>
+            </p>
+            <p>Whether <hi>R. C.</hi> his Fall from the Banquetting-Houſe Stairs was not Ominous? and whether without Offence afterwards he might not be called a <hi>Lame Protector?</hi>
+            </p>
+            <p>
+               <label>VI.</label>
+            </p>
+            <p>Whether <hi>R. C.</hi> ought to wonder at theſe Changes, (though his Peal was rung very ſadly) for he is a Hunts<g ref="char:EOLhyphen"/>man, and knowes what it is to run Counter?</p>
+            <pb n="4" facs="tcp:114683:3"/>
+            <p>
+               <label>VII.</label>
+            </p>
+            <p>Whether it would not tend more to the Purifying of <hi>Richard</hi>'s Blood, to be in the Country at this time o'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h year, then in the City? <hi>Quid Dixi?</hi> to the purifying of his blood; we all are ſenſible he wants blood.</p>
+            <p>
+               <label>VIII.</label>
+            </p>
+            <p>Whether <hi>R. C.</hi> might not get favour amongſt the La<g ref="char:EOLhyphen"/>dies, though he hath loſt himſelf amongſt the People, if he had but his Fathers <hi>Long Inſtrument?</hi>
+            </p>
+            <p>
+               <label>IX.</label>
+            </p>
+            <p>Whether it is not a ſufficient Demonſtration of <hi>R. C</hi>'s. ſubmiſſiveneſs, when as his deſign is not to raiſe New, but to put off his Old horſes?</p>
+            <p>
+               <label>X.</label>
+            </p>
+            <p>Whether <hi>R. C.</hi> might not have had better Councel, and at a Cheaper rate then 1000 l. a man? and whether it be a Crime to call them an <hi>Evill Councel?</hi>
+            </p>
+            <p>
+               <label>XI.</label>
+            </p>
+            <p>Whether <hi>Noll</hi>'s Mother had not a Colts tooth in her head when ſhe went to the <hi>Cock-pit?</hi>
+            </p>
+            <p>
+               <label>XII.</label>
+            </p>
+            <p>Whether her Daughter Miſtris <hi>Claypoole</hi> who lived there before her, was not a Hen of the Game?</p>
+            <p>
+               <label>XIII.</label>
+            </p>
+            <p>Whether ever Miſtris <hi>Claypooles</hi> Husband was capable of more then two things; the one, Fathering of other folks Children; the other, of executing a Raingers place in <hi>Whittlewood</hi> Forreſt?</p>
+            <p>
+               <label>XIV.</label>
+            </p>
+            <p>How can we expect to have good ſtreams of Juſtice, when as the <hi>Fountain</hi> is a Malignant?</p>
+            <p>
+               <label>XV.</label>
+            </p>
+            <p>How can we expect a good Goſpel, when we have ſo bad Law?</p>
+            <pb n="5" facs="tcp:114683:3"/>
+            <p>
+               <label>XVI.</label>
+            </p>
+            <p>Whether the ſins of this Nation have not cauſed God to ſend a Plague of Lawyers amongſt us?</p>
+            <p>
+               <label>XVII.</label>
+            </p>
+            <p>Whether the ſignification of Lawyers is not, <hi>That whoſo<g ref="char:EOLhyphen"/>ever comes but to ask once Counſel of them, muſt be years in Law?</hi>
+            </p>
+            <p>
+               <label>XVIII.</label>
+            </p>
+            <p>Whether the <hi>Act of Indemnity</hi> doth not extend to Colo<g ref="char:EOLhyphen"/>nel <hi>Howard</hi> and his Lady?</p>
+            <p>
+               <label>XIX.</label>
+            </p>
+            <p>Whether <hi>Prynne</hi> is not Couzen-German to all the Cropt horſes in <hi>England?</hi>
+            </p>
+            <p>
+               <label>XX.</label>
+            </p>
+            <p>Whether a penny worth of Ink will not ſerve his Wor<g ref="char:EOLhyphen"/>ſhip, though he writes much, in regard he is ſo exceeding<g ref="char:EOLhyphen"/>ly beholden to his Gall?</p>
+            <p>
+               <label>XXI.</label>
+            </p>
+            <p>Whether it would not be a great happineſs to our <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Nation, if <hi>Prynne</hi> might but come once to ſhake hands with his Ears?</p>
+            <p>
+               <label>XXII.</label>
+            </p>
+            <p>Whether all our Miniſters are not <hi>Independents,</hi> i. e. <hi>De<g ref="char:EOLhyphen"/>pending from thence,</hi> namely, 1. the Favour of thoſe in Power. 2. From the largeneſs of their Tythes? and whe<g ref="char:EOLhyphen"/>ther theſe Times will not put them upon making <hi>Uſes</hi> of their <hi>Reaſons?</hi>
+            </p>
+            <p>
+               <label>XXIII.</label>
+            </p>
+            <p>Whether <hi>Jones</hi> ought not to be Chief Alchymiſt of theſe Nations, ſince he can get an Eſtate out of Nothing?</p>
+            <p>
+               <label>XXIV.</label>
+            </p>
+            <p>If the Corruptions of ſome Officers be the Generation of others; all being corrupted, why ſhould we not have New ones in their Rooms? and whether often turning out of the <hi>Great Ones,</hi> will not prevent Corruptions?</p>
+            <pb n="6" facs="tcp:114683:4"/>
+            <p>
+               <label>XXV.</label>
+            </p>
+            <p>Whether thoſe are not to be accounted Sawcy Servants, who dare contradict their Maſters?</p>
+            <p>
+               <label>XXVI.</label>
+            </p>
+            <p>Whether it is not a good time of the year to turn the Courtiers to graſſe, they having been ſo long at hard meat?</p>
+            <p>
+               <label>XXVII.</label>
+            </p>
+            <p>Whether the late Court was not clear from Excrements, being it was ſo well provided of ſhavers?</p>
+            <p>
+               <label>XXVIII.</label>
+            </p>
+            <p>Whether Expectation hath not undone moſt of the Courtiers?</p>
+            <p>
+               <label>XXIX.</label>
+            </p>
+            <p>VVhether all of them would not, if they could hand<g ref="char:EOLhyphen"/>ſomely, turn <hi>Common-wealths-</hi>Men?</p>
+            <p>
+               <label>XXX.</label>
+            </p>
+            <p>Whether Sir <hi>Gilbert Pickering</hi> will not find it a more dif<g ref="char:EOLhyphen"/>ficult matter to faſten the Scepter into <hi>Richard Cromwell</hi>'s hand, then he did to ſcrue the tool into the Effigies at <hi>Sum<g ref="char:EOLhyphen"/>merſet-</hi>Houſe?</p>
+            <p>
+               <label>XXXI.</label>
+            </p>
+            <p>VVhether the Privy Paſſage from his Lodgings to <hi>White-Hall,</hi> was not made at the ſame time as he was Created Lord of the Cloſe-ſtoole?</p>
+            <p>
+               <label>XXXII.</label>
+            </p>
+            <p>VVhether Mr. <hi>Strickland</hi> would not be a Compleat Gentleman, if he had but Cuffs given him to his Black Bands?</p>
+            <p>
+               <label>XXXIII.</label>
+            </p>
+            <p>Whether he is not a Patient now inſtead of an Agent?</p>
+            <p>
+               <label>XXXIV.</label>
+            </p>
+            <p>Whether Mr. <hi>Thurlow</hi> is not the Proudeſt Man in the Nation, becauſe he could not be ſatisfied till he had the <hi>Protector</hi> for his Coachman?</p>
+            <pb n="7" facs="tcp:114683:4"/>
+            <p>
+               <label>XXXV.</label>
+            </p>
+            <p>Whether it is not a matter too Profound for Mr. <hi>Laurence</hi> (though he be a Dipper) to Dive into the Abſtruſeneſſe of the Armies Actings?</p>
+            <p>
+               <label>XXXVI.</label>
+            </p>
+            <p>Whether my Lord <hi>Fairfax</hi> did not ſwarve from his Principles, when he ſuffered his Daughter to take the Duke of <hi>Buckingham</hi> Priſoner?</p>
+            <p>
+               <label>XXXVII.</label>
+            </p>
+            <p>Whether <hi>Barkſtead</hi> could have been Arreſted, had he been <hi>Inviſible John?</hi>
+            </p>
+            <p>
+               <label>XXXVIII.</label>
+            </p>
+            <p>Whether Doctor <hi>Oſbaldſtone</hi> ought not to be reſtored un<g ref="char:EOLhyphen"/>to his Livings, when as many Ladies can witneſſe his <hi>Suf<g ref="char:EOLhyphen"/>ficiency?</hi>
+            </p>
+            <p>
+               <label>XXXIX.</label>
+            </p>
+            <p>VVhether it be any Abuſe to call Sir <hi>Richard Temple</hi> a Serving-man, ſince be ſo often handled a Trencher behind the <hi>Protector?</hi>
+            </p>
+            <p>
+               <label>XL.</label>
+            </p>
+            <p>Whether he is not to learn how to wait upon his Miſtris, who alwayes danced after his Maſter?</p>
+            <p>
+               <label>XLI.</label>
+            </p>
+            <p>VVhether he does not deſerve to be Degraded, and in<g ref="char:EOLhyphen"/>ſtead of Sir <hi>Richard Temple,</hi> be called Sir <hi>Dick.</hi> Trencher, who did ſo Debaſe himſelf?</p>
+            <p>
+               <label>XLII.</label>
+            </p>
+            <p>VVhether <hi>Peters</hi> was not alwayes Mad?</p>
+            <p>
+               <label>XLIII.</label>
+            </p>
+            <p>Whether his Daughter is not Mad for Marrying?</p>
+            <p>
+               <label>XLIV.</label>
+            </p>
+            <p>Whether we ſhall not be all Mad, if ever we make choyce of another <hi>Protector?</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
